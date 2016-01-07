@@ -1,0 +1,7 @@
+Contains the test suite for SYGMA of NuGrid's NUPYCEE GCE package.
+
+SYGMA_BUGS: Report your bugs in this notebook.
+
+SYGMA_SSP_h_yield_input: Tests with artificial yields containing only H!
+
+
