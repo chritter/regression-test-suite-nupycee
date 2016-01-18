@@ -1,5 +1,21 @@
 Contains the test suite for SYGMA of NuGrid's NUPYCEE GCE package.
 
+###To run the test suite:
+
+1) Set SYGMADIR in start_notebook.sh for example
+   to point to your NUPYCEE directory
+
+2) execute start_notebook.sh (./start_notebook.sh)
+
+3) Open SYGMA_SSP_h_yield_input.ipynb
+    	Execute parts and check variables
+   Open SYGMA_SSP_CNO_yield_input.ipynb 
+	Execute parts and check variables
+   Open SYGMA_SSP_all_yields.ipynb
+
+
+###Overview over content
+
 SYGMA_BUGS: Report your bugs in this notebook.
 
 SYGMA_SSP_h_yield_input: Tests with artificial yields containing only H.
@@ -43,6 +59,4 @@ SYGMA_SSP_all_yields: Test with standard (solar) yields input.
     
     SNIa check: default and hardsetZ mode.
 
-
-test2
 
