@@ -5,16 +5,20 @@ Contains the test suite for SYGMA of NuGrid's NUPYCEE GCE package.
 1) Set SYGMADIR in start_notebook.sh for example
    to point to your NUPYCEE directory
 
-2) execute start_notebook.sh (./start_notebook.sh)
+2) execute start_notebook.sh to start notebook server (./start_notebook.sh)
 
-3) Open SYGMA_SSP_h_yield_input.ipynb
+2) Working parts of the test suite are the following notebooks
+    Open SYGMA_SSP_h_yield_input.ipynb
+     	Execute parts and check variables
+    Open SYGMA_SSP_CNO_yield_input.ipynb 
     	Execute parts and check variables
-   Open SYGMA_SSP_CNO_yield_input.ipynb 
-	Execute parts and check variables
-   Open SYGMA_SSP_all_yields.ipynb
+    Open SYGMA_SSP_all_yields.ipynb
+
+4) You are done!
 
 
-###Overview over content
+
+###General overview over content
 
 SYGMA_BUGS: Report your bugs in this notebook.
 

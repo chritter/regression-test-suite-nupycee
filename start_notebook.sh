@@ -1,5 +1,5 @@
 #set the path to your NUPYCEE dir
-export SYGMADIR=/media/christian/ExtDrive64/NuGrid/NUPYCEE
+export SYGMADIR=/media/christian/ExtDrive64/NuGrid/NUPYCEE2
 
 #export path
 export PYTHONPATH=$PYTHONPATH:$SYGMADIR
@@ -12,5 +12,5 @@ ln -s $SYGMADIR/yield_tables/ yield_tables
 
 #starts notebook server
 ipython notebook --profile='default' #--pylab='inline' --profile='default'
-
+#ipython notebook will be depricated in the future, 'jupyter notebook'
 
